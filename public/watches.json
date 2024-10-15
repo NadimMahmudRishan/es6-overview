@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "brand": "Rolex",
+        "model": "Submariner",
+        "price": 8500,
+        "features": ["Automatic", "Water Resistant", "Stainless Steel"]
+    },
+    {
+        "id": 2,
+        "brand": "Omega",
+        "model": "Seamaster",
+        "price": 5000,
+        "features": ["Automatic", "Water Resistant", "Ceramic Bezel"]
+    },
+    {
+        "id": 3,
+        "brand": "Tag Heuer",
+        "model": "Carrera",
+        "price": 3000,
+        "features": ["Chronograph", "Automatic", "Sapphire Crystal"]
+    },
+    {
+        "id": 4,
+        "brand": "Casio",
+        "model": "G-Shock",
+        "price": 120,
+        "features": ["Digital", "Shock Resistant", "Water Resistant"]
+    },
+    {
+        "id": 5,
+        "brand": "Seiko",
+        "model": "Prospex",
+        "price": 500,
+        "features": ["Automatic", "Diver's Watch", "Luminescent Hands"]
+    },
+    {
+        "id": 6,
+        "brand": "Citizen",
+        "model": "Eco-Drive",
+        "price": 200,
+        "features": ["Solar Powered", "Date Display", "Stainless Steel"]
+    },
+    {
+        "id": 7,
+        "brand": "Breitling",
+        "model": "Navitimer",
+        "price": 7000,
+        "features": ["Chronograph", "Automatic", "Pilot's Watch"]
+    },
+    {
+        "id": 8,
+        "brand": "Patek Philippe",
+        "model": "Nautilus",
+        "price": 30000,
+        "features": ["Automatic", "Luxury", "Water Resistant"]
+    },
+    {
+        "id": 9,
+        "brand": "Audemars Piguet",
+        "model": "Royal Oak",
+        "price": 25000,
+        "features": ["Automatic", "Luxury", "Stainless Steel"]
+    },
+    {
+        "id": 10,
+        "brand": "Tissot",
+        "model": "Le Locle",
+        "price": 600,
+        "features": ["Automatic", "Sapphire Crystal", "Classic Design"]
+    },
+    {
+        "id": 11,
+        "brand": "Hamilton",
+        "model": "Khaki Field",
+        "price": 500,
+        "features": ["Automatic", "Military Style", "Sapphire Crystal"]
+    },
+    {
+        "id": 12,
+        "brand": "Timex",
+        "model": "Weekender",
+        "price": 50,
+        "features": ["Quartz", "Interchangeable Straps", "Water Resistant"]
+    },
+    {
+        "id": 13,
+        "brand": "Panerai",
+        "model": "Luminor",
+        "price": 9000,
+        "features": ["Automatic", "Diver's Watch", "Luminescent Dial"]
+    },
+    {
+        "id": 14,
+        "brand": "Hublot",
+        "model": "Big Bang",
+        "price": 12000,
+        "features": ["Automatic", "Luxury", "Bold Design"]
+    },
+    {
+        "id": 15,
+        "brand": "Longines",
+        "model": "HydroConquest",
+        "price": 1000,
+        "features": ["Automatic", "Diver's Watch", "Sapphire Crystal"]
+    },
+    {
+        "id": 16,
+        "brand": "Fossil",
+        "model": "Grant",
+        "price": 120,
+        "features": ["Quartz", "Chronograph", "Leather Strap"]
+    },
+    {
+        "id": 17,
+        "brand": "Cartier",
+        "model": "Tank",
+        "price": 5000,
+        "features": ["Quartz", "Luxury", "Classic Design"]
+    },
+    {
+        "id": 18,
+        "brand": "IWC",
+        "model": "Portugieser",
+        "price": 8000,
+        "features": ["Automatic", "Chronograph", "Sapphire Crystal"]
+    },
+    {
+        "id": 19,
+        "brand": "Movado",
+        "model": "Museum Classic",
+        "price": 500,
+        "features": ["Quartz", "Minimalist Design", "Sapphire Crystal"]
+    },
+    {
+        "id": 20,
+        "brand": "Michael Kors",
+        "model": "Lexington",
+        "price": 250,
+        "features": ["Quartz", "Chronograph", "Stainless Steel"]
+    }
+]
