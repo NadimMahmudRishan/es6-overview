@@ -1,6 +1,6 @@
 import React from 'react';
 
-const watch = () => {
+const Watch = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const watch = () => {
     );
 };
 
-export default watch;
+export default Watch;
